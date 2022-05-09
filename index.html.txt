@@ -11,6 +11,7 @@
 <body>
 <p>Primer parrafo</p>
 <h1>Proyecto empresarial</h1>
+<h2>Esto es una cabecera de nivel 2</h2>
 </body>
 
 </html>
